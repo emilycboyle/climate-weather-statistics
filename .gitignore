@@ -1,0 +1,7 @@
+# local env files
+.venv.local
+.venv.*.local
+.lock
+
+# images
+*.png
